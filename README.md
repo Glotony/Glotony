@@ -1,14 +1,10 @@
-# Hi, I'm Glotony 👋
-I'm a passionate Developer working with Python, Java, JavaScript, and web technologies.
+# I'm  Developer
 
----
+## 📊 Development Stats
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glotony&show_icons=true&theme=radical)
 
-![Glotony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glotony&show_icons=true&theme=radical&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glotony&layout=compact&theme=radical&hide_border=false&langs_count=10)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glotony&layout=compact&theme=radical)
 
 ## 🛠️ Tech & Languages
 
@@ -22,13 +18,7 @@ I'm a passionate Developer working with Python, Java, JavaScript, and web techno
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
 ## 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Glotony)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nika-mtiuli-712579331/)
-
----
-
