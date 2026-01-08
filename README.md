@@ -2,10 +2,9 @@
 
 ## 📊 Development Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glotony&show_icons=true&theme=radical)
+![Glotony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glotony&show_icons=true&theme=radical&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glotony&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glotony&layout=compact&theme=radical&hide_border=false&langs_count=10)
 
 ## 🛠️ Tech & Languages
 
