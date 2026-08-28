@@ -1,4 +1,4 @@
-# I'm  Generalist Engineer
+# Generalist Engineer
 
 
 ## 📊 Development Stats
