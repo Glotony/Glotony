@@ -1,33 +1,62 @@
-name: Update Profile Cards
+name: Update profile README
 
 on:
   schedule:
-    - cron: "23 0 * * *"
+    - cron: "0 0 * * *"   # once a day
   workflow_dispatch:
   push:
-    branches:
-      - main
-    paths:
-      - README.md
-      - .github/workflows/update-profile-cards.yml
+    branches: [main]
 
 permissions:
   contents: write
 
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
 jobs:
-  render-profile-cards:
+  cards:
+    name: Generate stat cards
     runs-on: ubuntu-latest
     steps:
-      - name: Check out profile repository
-        uses: actions/checkout@v7
-
-      - name: Generate profile cards
-        uses: seijikohara/profile-cards-action@v1
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Uses your personal token if you add SUMMARY_GITHUB_TOKEN, otherwise the built-in one
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: Glotony
-          cards: overview,momentum,contributions,lifetime,cadence,repositories,languages
-          output-dir: assets
-          themes: light,dark
-          language-limit: 8
-          commit: true
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 4
+          THEME: "github_dark"
+          AUTO_PUSH: true
+
+  activity:
+    name: Update recent activity
+    needs: cards
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 8
+          COMMIT_MSG: "chore: update recent activity"
+
+  snake:
+    name: Generate contribution snake
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
