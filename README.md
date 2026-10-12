@@ -41,7 +41,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Glotony&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d353&title_color=39d353&hide_border=true&height=250&width=420&custom_title=Contribution%20Activity" alt="Contribution activity" width="420" height="250" />
+      <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="420" height="250" />
     </td>
     <td align="center" width="50%">
       <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="420" height="250" />
