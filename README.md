@@ -15,13 +15,11 @@
 
 ---
 
-## 🛠️ Tech & Languages
+## 📊 GitHub Stats & Languages
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glotony&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most used languages in Glotony's public repositories" />
+</p>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,express,nodejs,git,github&theme=dark&perline=10" alt="tech icons" />
-
-</div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
