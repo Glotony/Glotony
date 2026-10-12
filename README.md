@@ -41,9 +41,6 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="420" height="250" />
-    </td>
-    <td align="center" width="50%">
       <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="420" height="250" />
     </td>
   </tr>
