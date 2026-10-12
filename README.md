@@ -8,23 +8,57 @@
   Generalist Engineer interested in building projects across different areas of software development.
 </p>
 
-📊 GitHub Stats & Languages
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Glotony&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Glotony's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glotony&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most used languages in Glotony's public repositories" />
-</p>
+## 📊 GitHub Stats
 
-📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Glotony&theme=redical&hide_border=true" alt="Glotony's GitHub contribution activity graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+  <img alt="Glotony's GitHub overview stats" src="./assets/overview.light.svg" width="100%" />
+</picture>
 
-🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Glotony&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Glotony's GitHub profile trophies" />
-</p>
+## 📈 Contribution Activity
 
-🔗 Connect With Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+  <img alt="GitHub contribution calendar and streaks" src="./assets/contributions.light.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
+  <img alt="Glotony's contribution history over time" src="./assets/lifetime.light.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/momentum.dark.svg" />
+  <img alt="Glotony's contribution momentum over time" src="./assets/momentum.light.svg" width="100%" />
+</picture>
+
+## 💻 Commit Activity & Repositories
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cadence.dark.svg" />
+  <img alt="Commit activity by day and time" src="./assets/cadence.light.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg" />
+  <img alt="Public repositories ranked by recent commit activity" src="./assets/repositories.light.svg" width="100%" />
+</picture>
+
+## 🛠️ Tech & Languages
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+  <img alt="Programming language breakdown across public repositories" src="./assets/languages.light.svg" width="100%" />
+</picture>
+
+*Language stats are calculated from the code in public repositories, so they may differ from a list of languages used most recently.*
+
+## 🏆 GitHub Achievements
+
+Explore my official GitHub achievements and badges on my [GitHub profile](https://github.com/Glotony). These are hosted by GitHub itself rather than a third-party trophy image service.
+
+## 🔗 Connect With Me
+
 <p align="center">
   <a href="https://github.com/Glotony">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -34,8 +68,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Glotony&style=flat-square&color=blueviolet" alt="Profile views" />
-</p>
+---
 
-<p align="center"><i>Stats and charts are generated dynamically from public GitHub data and may take some time to refresh.</i></p>
+<p align="center"><i>Stats and charts are refreshed automatically by GitHub Actions each day.</i></p>
