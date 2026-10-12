@@ -1,73 +1,25 @@
-<h1 align="center">Hey, I'm Glotony 👋</h1>
+# Generalist Engineer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=650&lines=Generalist+Engineer;Building+with+code;Always+learning+and+experimenting" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  Generalist Engineer interested in building projects across different areas of software development.
-</p>
+## 📊 Development Stats
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glotony&show_icons=true&theme=radical)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
-  <img alt="Glotony's GitHub overview stats" src="./assets/overview.light.svg" width="100%" />
-</picture>
-
-## 📈 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
-  <img alt="GitHub contribution calendar and streaks" src="./assets/contributions.light.svg" width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
-  <img alt="Glotony's contribution history over time" src="./assets/lifetime.light.svg" width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/momentum.dark.svg" />
-  <img alt="Glotony's contribution momentum over time" src="./assets/momentum.light.svg" width="100%" />
-</picture>
-
-## 💻 Commit Activity & Repositories
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/cadence.dark.svg" />
-  <img alt="Commit activity by day and time" src="./assets/cadence.light.svg" width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg" />
-  <img alt="Public repositories ranked by recent commit activity" src="./assets/repositories.light.svg" width="100%" />
-</picture>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glotony&layout=compact&theme=radical)
 
 ## 🛠️ Tech & Languages
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
-  <img alt="Programming language breakdown across public repositories" src="./assets/languages.light.svg" width="100%" />
-</picture>
-
-*Language stats are calculated from the code in public repositories, so they may differ from a list of languages used most recently.*
-
-## 🏆 GitHub Achievements
-
-Explore my official GitHub achievements and badges on my [GitHub profile](https://github.com/Glotony). These are hosted by GitHub itself rather than a third-party trophy image service.
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/Glotony">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/nika-mtiuli-712579331/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-<p align="center"><i>Stats and charts are refreshed automatically by GitHub Actions each day.</i></p>
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Glotony)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nika-mtiuli-712579331/)
