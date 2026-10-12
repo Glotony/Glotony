@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Nika%20Mtiuli&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Generalist%20Engineer&descAlignY=58&descSize=22" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Glotony&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Generalist%20Engineer&descAlignY=58&descSize=22" alt="header" />
 
 <a href="https://github.com/Glotony">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=620&lines=Full-stack+developer;Python+%7C+Java+%7C+JavaScript;React+%26+Node.js+builder;Always+learning%2C+always+shipping" alt="Typing SVG" />
@@ -8,7 +8,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Glotony&label=Profile+views&color=ff69b4&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/Glotony?label=Followers&style=for-the-badge&logo=github&color=121011" alt="followers" />
 <img src="https://img.shields.io/github/stars/Glotony?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=121011" alt="stars" />
 
