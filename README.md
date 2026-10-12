@@ -38,15 +38,26 @@
 
 <div align="center">
 
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="49%" />
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="49%" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="420" height="250" />
+    </td>
+    <td align="center" width="50%">
+      <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="420" height="250" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repo" width="420" height="250" />
+    </td>
+    <td align="center" width="50%">
+      <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit" width="420" height="250" />
+    </td>
+  </tr>
+</table>
 
-<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repo" width="49%" />
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit" width="49%" />
-
-<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" width="60%" />
-
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=Glotony&theme=radical&hide_border=true" alt="GitHub streak" />
 
